@@ -1,0 +1,75 @@
+END USER LICENSE AGREEMENT (EULA) / CONTRATTO DI LICENZA D’USO
+
+Last updated: 22 Oct 2025
+
+---
+IT (Italiano)
+---
+1) OGGETTO
+Il presente contratto concede all’utente finale una licenza **non esclusiva, non trasferibile** per utilizzare il software “CAMT2CSV Converter (Offline)” e “CAMT2CSV Free (Demo)” su dispositivi Windows.
+
+2) VERSIONI
+- **Versione completa (a pagamento)**: utilizzo illimitato nei limiti previsti dalla licenza.
+- **Versione demo (gratuita)**: limitata a **20 righe per file**; destinata a prova/valutazione.
+
+3) LICENZA
+È consentito installare ed utilizzare il software su dispositivi di proprietà o sotto controllo dell’utente. È vietato:
+- aggirare limitazioni della demo;
+- decompilare, disassemblare, effettuare reverse engineering;
+- distribuire, rivendere o noleggiare il software senza autorizzazione.
+
+4) PROPRIETÀ INTELLETTUALE
+Il software è protetto da diritto d’autore. Tutti i diritti non espressamente concessi sono riservati al Titolare.
+
+5) RACCOLTA DATI
+Il software opera **offline** e **non trasmette dati personali**. Eventuali file elaborati restano in locale.
+
+6) GARANZIA
+Il software è fornito “**così com’è**” senza garanzie di alcun tipo, esplicite o implicite, incluse idoneità ad un particolare scopo e non violazione.
+
+7) LIMITAZIONE DI RESPONSABILITÀ
+Nei limiti massimi consentiti dalla legge, il Titolare non sarà responsabile per danni diretti, indiretti, incidentali, consequenziali, perdita di profitti o dati derivanti dall’uso o impossibilità d’uso del software.
+
+8) AGGIORNAMENTI
+Aggiornamenti e nuove versioni potranno essere rilasciati a discrezione del Titolare.
+
+9) LEGGE APPLICABILE E FORO
+Si applica la legge italiana. Foro competente esclusivo: Lecco, Italia.
+
+Titolare: Fulvio Gilardoni — Contatti: fulvio.gilardoni@gmail.com
+
+---
+EN (English)
+---
+1) SCOPE
+This EULA grants the end user a **non-exclusive, non-transferable** license to use “CAMT2CSV Converter (Offline)” and “CAMT2CSV Free (Demo)” on Windows devices.
+
+2) EDITIONS
+- **Paid full version**: unlimited use within license terms.
+- **Free demo**: limited to **20 rows per file**; for trial/evaluation purposes.
+
+3) LICENSE
+You may install and use the software on devices you own or control. You may not:
+- bypass demo limitations;
+- decompile, disassemble, or reverse engineer;
+- redistribute, resell, or rent the software without permission.
+
+4) INTELLECTUAL PROPERTY
+The software is copyrighted. All rights not expressly granted are reserved by the Owner.
+
+5) DATA COLLECTION
+The software works **offline** and **does not transmit personal data**. Processed files remain local.
+
+6) WARRANTY
+The software is provided **“as is”**, without any warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement.
+
+7) LIABILITY
+To the maximum extent permitted by law, the Owner shall not be liable for any direct, indirect, incidental, consequential damages, or loss of profits or data arising from use or inability to use the software.
+
+8) UPDATES
+Updates and new versions may be released at the Owner’s discretion.
+
+9) GOVERNING LAW AND VENUE
+Italian law applies. Exclusive jurisdiction: Lecco, Italy.
+
+Owner: Fulvio Gilardoni — Contact: fulvio.gilardoni@gmail.com
