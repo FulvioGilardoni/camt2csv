@@ -32,12 +32,12 @@ CAMT2CSV.exe <percorso_input> [--out <file|cartella>] [--sep ;|,] [--culture it-
 
 ## Supporto & Privacy
 Documentazione, FAQ, contatti e informativa privacy:  
-https://<TUO-USERNAME>.github.io/camt2csv-site/
+https://fulviogilardoni.github.io/camt2csv/
 
 Per assistenza diretta: fulvio.gilardoni@gmail.com
 
 ## Changelog
-Vedi la pagina: https://<TUO-USERNAME>.github.io/camt2csv-site/#changelog
+Vedi la pagina: 
 
 ---
 
@@ -75,6 +75,6 @@ CAMT2CSV.exe <input_path> [--out <file|folder>] [--sep ;|,] [--culture it-IT|en-
 
 ## Support & Privacy
 Docs, FAQ, contacts and privacy policy:  
-https://fulviogilardoni.github.io/camt2csv-site/
+https://fulviogilardoni.github.io/camt2csv/
 
 Direct support: fulvio.gilardoni@gmail.com
